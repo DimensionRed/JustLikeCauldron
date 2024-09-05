@@ -1,5 +1,3 @@
-# JustLikeCauldron
-Rotatable cauldrons with resourcepack support for custom models
 ![Logo](https://cdn.modrinth.com/data/cached_images/ade616932328a0d3a24b8a6197aa17ac7e7fea6b.jpeg)
 
 # Key Features

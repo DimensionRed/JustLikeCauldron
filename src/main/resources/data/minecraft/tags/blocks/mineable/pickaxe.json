@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "jscauldron:crucible",
+    "jscauldron:lava_crucible",
+    "jscauldron:water_crucible",
+    "jscauldron:powder_snow_crucible"
+  ]
+}

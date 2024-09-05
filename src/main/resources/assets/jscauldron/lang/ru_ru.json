@@ -1,0 +1,11 @@
+{
+  "block.jscauldron.crucible": "Тигель",
+  "block.jscauldron.water_crucible": "Тигель с водой",
+  "block.jscauldron.lava_crucible": "Тигель с лавой",
+  "block.jscauldron.powder_snow_crucible": "Тигель со снегом",
+
+  "item.jscauldron.crucible": "Тигель",
+  "item.jscauldron.water_crucible": "Тигель с водой",
+  "item.jscauldron.lava_crucible": "Тигель с лавой",
+  "item.jscauldron.powder_snow_crucible": "Тигель со снегом"
+}
